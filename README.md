@@ -3,6 +3,8 @@ Prueba técnica Vexiza
 
 **Técnología**: Java - Sprint boot
 
+**Arquitectura**: Hexagonal
+
 **Sercicios**: REST
 
 **Integración continua**: Maven
